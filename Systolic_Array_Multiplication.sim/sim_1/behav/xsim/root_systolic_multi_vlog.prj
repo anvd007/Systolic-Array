@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Systolic_Array_Multiplication.srcs/sources_1/new/root_systolic_multi.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

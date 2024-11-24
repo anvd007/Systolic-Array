@@ -1,0 +1,4 @@
+Running: xsim.dir/root_systolic_multi_behav/xsimk.exe -simmode gui -wdb root_systolic_multi_behav.wdb -simrunnum 0 -socket 60319
+Design successfully loaded
+Design Loading Memory Usage: 6832 KB (Peak: 6832 KB)
+Design Loading CPU Usage: 15 ms
